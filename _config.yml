@@ -1,14 +1,14 @@
-layout_spectrum: 0.8638386575039476
-typography_spectrum: 0.9245032877661288
 color:
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
   brandStrength: 0.9638505273032933
   lightness: 0.22950452589429915
-  saturation: 0.009322795551270247
   rhythmicContrast: 0.8838821060489863
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+  saturation: 0.009322795551270247
+layout_spectrum: 0.8638386575039476
 name: extended knowledge
+typography_spectrum: 0
